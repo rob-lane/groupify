@@ -1,4 +1,3 @@
-require 'groupify'
 require 'rails'
 
 module Groupify
